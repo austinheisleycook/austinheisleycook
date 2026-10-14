@@ -17,4 +17,4 @@ C#, .NET, Azure, Python, PHP, Laravel, HTML, CSS, JavaScript, Visual Basic, and 
 - Web development studies and Azure Programming Certification, Santa Monica College
 - .NET Programming Certification, Los Angeles Valley College
 - Information Technology and Management Certification, Taft Community College
-- Certifications in PHP and Laravel
+- 
